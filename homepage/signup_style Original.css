@@ -1,0 +1,83 @@
+
+body {
+	background-color: #F0F0F0;
+	font-family: sans-serif;
+	color: #2A2A2A;
+}
+
+h4.intro, h1.header {
+	margin: 0 auto;
+	padding:1%;
+	text-align: center;
+
+}
+
+h1.header {
+	margin: 0 auto;
+	margin-top: 10%;
+
+}
+
+
+
+div#item-list{
+	width: 25%;
+	margin: 0 auto;
+	padding: 2%;
+	text-align: left;
+}
+
+
+
+
+.form-group {
+
+	text-align:center;
+	padding: 2%;
+
+
+}
+
+
+div.agreement-submit {
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+
+
+}
+
+div.col-lg-6 {
+	width: 100%;
+	padding:1%;
+	clear: left;
+	margin: 0 auto;
+
+}
+
+.btn-default {
+	padding-top: 10%;
+	margin-top: 5%;
+	margin-left: 25%
+}
+
+li
+{
+    list-style-position:inside;
+}
+
+.navbar-brand {
+	text-align: center;
+	margin: 0 auto;
+}
+div.col-lg-6 div.col-lg-8 {
+	width: 25%;
+	margin-left: 37%;
+
+}
+footer {
+	color: white;
+	padding-top: 3%
+	clear: top;
+	text-align: left;
+}
